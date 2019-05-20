@@ -1,25 +1,25 @@
 # ETL_JOBS
 learning data preprocessing
 ---------------------------------------------------------------------------------------------------------------------
-Datatype of each column in  the cleaned csv file csv
+Datatype of each column in  the cleaned csv file csv:--
 
-PassengerId int64
-Survived int64
-Pclass int64
-Name object
-Sex object
-Age float64
-SibSp int64
-Parch int64
-Ticket object
-Fare float64
-Cabin object
-Embarked object
+PassengerId int64,
+Survived int64,
+Pclass int64,
+Name object,
+Sex object,
+Age float64,
+SibSp int64,
+Parch int64,
+Ticket object,
+Fare float64,
+Cabin object,
+Embarked object.
 --------------------------------------------------------------------------------------------------------------------
-Datatype of each column in table in with the csv in imported
+Datatype of each column in table in with the csv in imported:--
 
 
-mydbetl=# \d+ titanic    
+mydbetl=# \d+ titanic    --->
                                          Table "public.titanic"
    Column    |       Type       | Collation | Nullable | Default | Storage  | Stats target | Description 
 -------------+------------------+-----------+----------+---------+----------+--------------+-------------
