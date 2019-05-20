@@ -1,5 +1,5 @@
 # ETL_JOBS
-learning data preprocessing
+learning data preprocessing with PYTHON and POSTGRESQL
 ---------------------------------------------------------------------------------------------------------------------
 Datatype of each column in  the cleaned csv file csv:--
 
