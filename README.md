@@ -19,7 +19,7 @@ Embarked object
 Datatype of each column in table in with the csv in imported
 
 
-mydbetl=# \d+ titanic
+mydbetl=# \d+ titanic    
                                          Table "public.titanic"
    Column    |       Type       | Collation | Nullable | Default | Storage  | Stats target | Description 
 -------------+------------------+-----------+----------+---------+----------+--------------+-------------
